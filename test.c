@@ -2,7 +2,12 @@
 
 
 int main{
-	printf("hello world");
+	int a;
+	a = 123;
+
+
+	printf("hello world\n");
+		
 	return 0;
 
 }
